@@ -83,3 +83,35 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# aidl_demo-AidlClient
+/aidl_demo/AidlClient/*.iml
+/aidl_demo/AidlClient/.gradle
+/aidl_demo/AidlClient/local.properties
+/aidl_demo/AidlClient/.idea/caches
+/aidl_demo/AidlClient/.idea/libraries
+/aidl_demo/AidlClient/.idea/modules.xml
+/aidl_demo/AidlClient/.idea/workspace.xml
+/aidl_demo/AidlClient/.idea/navEditor.xml
+/aidl_demo/AidlClient/.idea/assetWizardSettings.xml
+/aidl_demo/AidlClient/.DS_Store
+/aidl_demo/AidlClient/build
+/aidl_demo/AidlClient/captures
+/aidl_demo/AidlClient/.externalNativeBuild
+/aidl_demo/AidlClient/.cxx
+
+# aidl_demo-AidlServer
+/aidl_demo/AidlServer/*.iml
+/aidl_demo/AidlServer/.gradle
+/aidl_demo/AidlServer/local.properties
+/aidl_demo/AidlServer/.idea/caches
+/aidl_demo/AidlServer/.idea/libraries
+/aidl_demo/AidlServer/.idea/modules.xml
+/aidl_demo/AidlServer/.idea/workspace.xml
+/aidl_demo/AidlServer/.idea/navEditor.xml
+/aidl_demo/AidlServer/.idea/assetWizardSettings.xml
+/aidl_demo/AidlServer/.DS_Store
+/aidl_demo/AidlServer/build
+/aidl_demo/AidlServer/captures
+/aidl_demo/AidlServer/.externalNativeBuild
+/aidl_demo/AidlServer/.cxx
