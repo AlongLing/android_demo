@@ -115,3 +115,19 @@ lint/tmp/
 /aidl_demo/AidlServer/captures
 /aidl_demo/AidlServer/.externalNativeBuild
 /aidl_demo/AidlServer/.cxx
+
+# permission_demo-PermissionTest
+/permission_demo/PermissionTest/*.iml
+/permission_demo/PermissionTest/.gradle
+/permission_demo/PermissionTest/local.properties
+/permission_demo/PermissionTest/.idea/caches
+/permission_demo/PermissionTest/.idea/libraries
+/permission_demo/PermissionTest/.idea/modules.xml
+/permission_demo/PermissionTest/.idea/workspace.xml
+/permission_demo/PermissionTest/.idea/navEditor.xml
+/permission_demo/PermissionTest/.idea/assetWizardSettings.xml
+/permission_demo/PermissionTest/.DS_Store
+/permission_demo/PermissionTest/build
+/permission_demo/PermissionTest/captures
+/permission_demo/PermissionTest/.externalNativeBuild
+/permission_demo/PermissionTest/.cxx
